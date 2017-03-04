@@ -1,5 +1,5 @@
 
-1. Why are you interested in programming? What have you done to expose yourself to programming so far?
+ 1. Why are you interested in programming? What have you done to expose yourself to programming so far?
 
 
    I have always had a strong interest in learning new concepts and development in technologies. I am a person who enjoys the challenge of exploring and finding innovative solutions. I identify myself as a “STEM”; Science, Technology, Engineering and Math person and believe this program is a great perfect fit for my skillset and passion. 
